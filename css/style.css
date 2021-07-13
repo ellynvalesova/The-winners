@@ -9,6 +9,6 @@ nav a {
         text-decoration: unset;
 }
 
-nav a :hover {
+nav a:hover {
         color: darkgray
 }
