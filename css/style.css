@@ -3,3 +3,12 @@ nav {
         position: fixed;
         top: 0;
 }
+
+nav a {
+        color:aliceblue;
+        text-decoration: unset;
+}
+
+nav a :hover {
+        color: darkgray
+}
