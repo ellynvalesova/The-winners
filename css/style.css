@@ -23,3 +23,8 @@ nav a:hover {
         justify-content: space-around;
 
 }
+.textik {
+border: 3px
+display: flex;
+width: 300px;
+}
