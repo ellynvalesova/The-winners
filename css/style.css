@@ -37,5 +37,8 @@ display: flex;
         width: 100%;
         min-height: 250px;
         background-image: url("https://media.istockphoto.com/vectors/digital-binary-code-computer-matrix-data-falling-numbers-coding-and-vector-id1093112310?k=6&m=1093112310&s=612x612&w=0&h=ofdqOOHQ4NdBU53qc-fqgeOqJxlymoQYivt_KF-aPTU=");
-
+}
+.tlacitkonastred{
+        display: flex;
+        justify-content: center;
 }
