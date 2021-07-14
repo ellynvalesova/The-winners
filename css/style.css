@@ -24,7 +24,7 @@ nav a:hover {
 
 }
 .textik {
-border: 3px
+border: 3px;
 display: flex;
-width: 300px;
+/* width: 300px; */
 }
