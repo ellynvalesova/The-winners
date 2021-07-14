@@ -28,3 +28,7 @@ border: 3px;
 display: flex;
 /* width: 300px; */
 }
+.tlacitkonastred{
+        display: flex;
+        justify-content: center;
+}
