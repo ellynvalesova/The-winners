@@ -43,3 +43,7 @@ display: flex;
         display: flex;
         justify-content: center;
 }
+
+.logo-text {
+        margin-top: 5em;
+}
